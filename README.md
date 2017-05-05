@@ -3,3 +3,6 @@ RollR is a website built as a companion to table top games either in person or o
 
 THIS IS NOT A DEMONSTRATION OF FANTASTIC CODING PRACTICE!!!
 DO AS A I SAY NOT AS I DO!
+
+
+I will almost certianly not continue to develop this site. I feel sick every time I look at the back end....
